@@ -6,7 +6,7 @@ import square.SquarePeg;
 /**
  * Adapter use example
  */
-public class Main {
+public class DesignPatternAdapterExample {
     public static void main(String[] args) {
         // Round fits, no surprise.
         RoundHole hole = new RoundHole(5);
